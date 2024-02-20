@@ -8,7 +8,7 @@
 
 ```sh
 
-sudo  apt-get  install  libncurses  libncurses-dev
+sudo apt-get install libncurses libncurses-dev
 
 ``` 
 
