@@ -2,7 +2,7 @@
 
 ### Requirements
 
-- Ubuntu or Mac
+- Linux or Mac
 - If you are on windows install WSL.
 - Install ncurses
 
